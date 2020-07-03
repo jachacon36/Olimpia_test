@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Olimpia_test</string>
+    <string name="user_data">Formulario de registro</string>
+    <string name="take_picture">Tomar foto</string>
+    <string name="locatio_map">Geoposicionamiento</string>
+    <string name="network_status">Bluetooth y WiFi</string>
+    <string name="save_data">Guardar datos</string>
+    <string name="name">Ingresa tu nombre</string>
+    <string name="next">Siguiente</string>
+    <string name="document">Inresa tu cedula</string>
+    <string name="address">Ingresa tu direccion</string>
+    <string name="city">Ingresa tu ciudad</string>
+    <string name="country">Ingresa tu pais</string>
+    <string name="phone">Ingresa tu celular</string>
+    <string name="title_activity_location">Map</string>
+    <string name="google_maps_key">AIzaSyCQpG8IKSsRoocUS_yTsuj3tSKcvVk9zsQ</string>
+    <string name="ON" />
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="wifi">WIFI</string>
+    <string name="internet">INTERNET</string>
+    <string name="bluetooth">BLUETOOTH</string>
+    <string name="empty">Campo vacio</string>
+    <string name="send">Guardar datos</string>
+</resources>
